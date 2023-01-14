@@ -1,0 +1,1055 @@
+cumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5440ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2840ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3940ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2840ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6040ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 2 -- Iteration 5 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 6 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 3 started working on processes .....
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 0 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5440ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9640ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2840ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5740ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3940ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 105
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 116
+     Remaining Execution Time: 6060ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 2 -- Iteration 6 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 7 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 3140ms, Time slice: 60us, Accumulated time slice: 60ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5460ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3960ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 105
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 116      
+     Remaining Execution Time: 6060ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 2 -- Iteration 7 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 8 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5460ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 111
+     Remaining Execution Time: 5460ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 119      
+     Remaining Execution Time: 3260ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 3 -- Iteration 0 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 1 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 3960ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9660ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 105
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 116      
+     Remaining Execution Time: 6060ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 2 -- Iteration 8 ended.
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5760ms, Time slice: 40us, Accumulated time slice: 40ms
+
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 9 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5460ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3960ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3160ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 105
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 116
+     Remaining Execution Time: 6060ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 2 -- Iteration 9 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 10 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5460ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 111
+     Remaining Execution Time: 5460ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3960ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 119
+     Remaining Execution Time: 3260ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 3 -- Iteration 1 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 2 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 4 started working on processes .....
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 0 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9660ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6760ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7150ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107      
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 110      
+     Remaining Execution Time: 6750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 4950ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130      
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 103      
+     Remaining Execution Time: 3150ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 133      
+     Remaining Execution Time: 6650ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 4 -- Iteration 0 ended.
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 1 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7150ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 110
+     Remaining Execution Time: 6750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 4950ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 105      
+     Remaining Execution Time: 2860ms, Time slice: 40us, Accumulated time slice: 40ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120      
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 133      
+     Remaining Execution Time: 6650ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 4 -- Iteration 1 ended.
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 2 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 5450ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7150ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 126
+     Remaining Execution Time: 3250ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 3 -- Iteration 2 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 3 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9650ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 123      
+     Remaining Execution Time: 6050ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 2 -- Iteration 10 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 11 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 110
+     Remaining Execution Time: 6750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 4950ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5450ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 133
+     Remaining Execution Time: 6650ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 4 -- Iteration 2 ended.
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 3 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5750ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2850ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 103
+     Remaining Execution Time: 3150ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 5450ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 126
+     Remaining Execution Time: 3250ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 3 -- Iteration 3 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 4 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9650ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 103
+     Remaining Execution Time: 3950ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2870ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120      
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120      
+     Remaining Execution Time: 6070ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 2 -- Iteration 11 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 12 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5470ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 5 started working on processes .....
+-----------------------------------------------------------
+Thread ID# 5 -- Iteration 0 started..
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 48
+     Remaining Execution Time: 8000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5770ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2870ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 3970ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2870ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6070ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 2 -- Iteration 12 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 13 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7150ms, Time slice: 50us, Accumulated time slice: 50ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107      
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107      
+     Remaining Execution Time: 6770ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 4970ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5470ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 100
+     Remaining Execution Time: 7970ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 0
+     Remaining Execution Time: 4000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3170ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130
+     Remaining Execution Time: 6670ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 4 -- Iteration 3 ended.
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 4 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2870ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 3970ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5470ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123      
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6770ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7170ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107      
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2870ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120      
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123      
+     Remaining Execution Time: 3270ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 3 -- Iteration 4 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 5 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9670ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5770ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3170ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 100
+     Remaining Execution Time: 3970ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 108
+     Remaining Execution Time: 7300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107
+     Remaining Execution Time: 6770ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 4970ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130      
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130      
+     Remaining Execution Time: 6670ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 4 -- Iteration 4 ended.
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 108      
+     Remaining Execution Time: 7270ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 116      
+     Remaining Execution Time: 7400ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 113      
+     Remaining Execution Time: 7380ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 135      
+     Remaining Execution Time: 5300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5470ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 5 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 132      
+     Remaining Execution Time: 5280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 5 -- Iteration 0 ended.
+-----------------------------------------------------------
+Thread ID# 5 -- Iteration 1 started..
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 48
+     Remaining Execution Time: 8000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 100
+     Remaining Execution Time: 7980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 0
+     Remaining Execution Time: 4000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 100
+     Remaining Execution Time: 3980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 108
+     Remaining Execution Time: 7300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6070ms, Time slice: 30us, Accumulated time slice: 30ms
+
+Thread ID#: 2 -- Iteration 13 ended.
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 105
+     Remaining Execution Time: 7280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 116
+     Remaining Execution Time: 7400ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 113
+     Remaining Execution Time: 7380ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 135
+     Remaining Execution Time: 5300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7180ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 14 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 104
+     Remaining Execution Time: 6780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 120
+     Remaining Execution Time: 3280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 3 -- Iteration 5 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 6 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9680ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5480ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 132
+     Remaining Execution Time: 5280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 5 -- Iteration 1 ended.
+-----------------------------------------------------------
+Thread ID# 5 -- Iteration 2 started..
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 48
+     Remaining Execution Time: 8000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 112
+     Remaining Execution Time: 4980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3180ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 112
+     Remaining Execution Time: 5480ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 100
+     Remaining Execution Time: 7980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 0
+     Remaining Execution Time: 4000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 100
+     Remaining Execution Time: 3980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 108
+     Remaining Execution Time: 7300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 105
+     Remaining Execution Time: 7280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 116
+     Remaining Execution Time: 7400ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 120      
+     Remaining Execution Time: 3280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 3 -- Iteration 6 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 7 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2880ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 127      
+     Remaining Execution Time: 6680ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 4 -- Iteration 5 ended.
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 6 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 113
+     Remaining Execution Time: 7380ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 135
+     Remaining Execution Time: 5300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 132
+     Remaining Execution Time: 5280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 5 -- Iteration 2 ended.
+-----------------------------------------------------------
+Thread ID# 5 -- Iteration 3 started..
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 48
+     Remaining Execution Time: 8000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 100
+     Remaining Execution Time: 7980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 0
+     Remaining Execution Time: 4000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 100
+     Remaining Execution Time: 9680ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 0
+     Remaining Execution Time: 5800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1002, Scheduling Policy: FIFO, Static Priority: 40, Dynamic Priority: 100
+     Remaining Execution Time: 5780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100      
+     Remaining Execution Time: 3200ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 100
+     Remaining Execution Time: 3980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 108      
+     Remaining Execution Time: 7300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7180ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107      
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 110      
+     Remaining Execution Time: 6780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1017, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 103      
+     Remaining Execution Time: 3180ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5500ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1016, Scheduling Policy: NORMAL, Static Priority: 108, Dynamic Priority: 111
+     Remaining Execution Time: 7280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 116
+     Remaining Execution Time: 7400ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 3980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 4980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 130
+     Remaining Execution Time: 6700ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1004, Scheduling Policy: NORMAL, Static Priority: 130, Dynamic Priority: 133
+     Remaining Execution Time: 6680ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 4 -- Iteration 6 ended.
+-----------------------------------------------------------
+Thread ID# 4 -- Iteration 7 started..
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 35
+     Remaining Execution Time: 6800ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1008, Scheduling Policy: RR, Static Priority: 35, Dynamic Priority: 100
+     Remaining Execution Time: 6780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 0
+     Remaining Execution Time: 7200ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 112      
+     Remaining Execution Time: 2880ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120      
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 123      
+     Remaining Execution Time: 6080ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 2 -- Iteration 14 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 15 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1018, Scheduling Policy: NORMAL, Static Priority: 116, Dynamic Priority: 119
+     Remaining Execution Time: 7380ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 135
+     Remaining Execution Time: 5300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1011, Scheduling Policy: NORMAL, Static Priority: 135, Dynamic Priority: 138
+     Remaining Execution Time: 5280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 5 -- Iteration 3 ended.
+-----------------------------------------------------------
+Thread ID# 5 -- Iteration 4 started..
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 48
+     Remaining Execution Time: 8000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1005, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 118
+     Remaining Execution Time: 5480ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 123
+     Remaining Execution Time: 3300ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1019, Scheduling Policy: NORMAL, Static Priority: 123, Dynamic Priority: 126
+     Remaining Execution Time: 3280ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 3 -- Iteration 7 ended.
+-----------------------------------------------------------
+Thread ID# 3 -- Iteration 8 started..
+Thread ID#: 0, PID: 1003, Scheduling Policy: RR, Static Priority: 33, Dynamic Priority: 33
+     Remaining Execution Time: 9700ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1009, Scheduling Policy: FIFO, Static Priority: 50, Dynamic Priority: 100
+     Remaining Execution Time: 7180ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 107      
+     Remaining Execution Time: 6800ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1010, Scheduling Policy: RR, Static Priority: 48, Dynamic Priority: 100
+     Remaining Execution Time: 7980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1006, Scheduling Policy: FIFO, Static Priority: 70, Dynamic Priority: 0
+     Remaining Execution Time: 4000ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5480ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2880ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 103
+     Remaining Execution Time: 3980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 112
+     Remaining Execution Time: 2880ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 120
+     Remaining Execution Time: 6100ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1000, Scheduling Policy: NORMAL, Static Priority: 120, Dynamic Priority: 123
+     Remaining Execution Time: 6080ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 2 -- Iteration 15 ended.
+-----------------------------------------------------------
+Thread ID# 2 -- Iteration 16 started..
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 22
+     Remaining Execution Time: 5500ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1014, Scheduling Policy: RR, Static Priority: 22, Dynamic Priority: 100
+     Remaining Execution Time: 5480ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 0
+     Remaining Execution Time: 2900ms, Time slice: 1000us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1007, Scheduling Policy: FIFO, Static Priority: 25, Dynamic Priority: 100
+     Remaining Execution Time: 2880ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 100
+     Remaining Execution Time: 4000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1001, Scheduling Policy: NORMAL, Static Priority: 100, Dynamic Priority: 103      
+     Remaining Execution Time: 3980ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1012, Scheduling Policy: NORMAL, Static Priority: 109, Dynamic Priority: 109      
+     Remaining Execution Time: 2900ms, Time slice: 0us, Accumulated time slice: 0ms
+
+Thread ID#: 0, PID: 1013, Scheduling Policy: NORMAL, Static Priority: 107, Dynamic Priority: 110      
+     Remaining Execution Time: 6780ms, Time slice: 20us, Accumulated time slice: 20ms
+
+Thread ID#: 0, PID: 1015, Scheduling Policy: NORMAL, Static Priority: 115, Dynamic Priority: 115      
+     Remaining Execution Time: 5000ms, Time slice: 0us, Accumulated time slice: 0ms
+
+
+All Done.
+PS C:\Users\Ricky\Desktop\SYSC4001 - Operating Systems\Lab-Assignments\Assignments\Assignment 3>  
